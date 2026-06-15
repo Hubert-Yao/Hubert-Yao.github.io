@@ -24,7 +24,7 @@ nav_order: 2
 ## 2026
 
 - <span class="pub-title">Pyriscope: Precise and Low-overhead Python Control Flow Tracing via Sparse Hardware-based Events</span>  
-  **Xincheng Yao**, Daiyou Wu, and Zhiqiang Zuo.  
+  **Xinchen Yao**, Daiyou Wu, and Zhiqiang Zuo.  
   <span class="pub-venue">conditionally accepted by the ACM SIGPLAN Conference on Object-Oriented Programming, Systems, Languages, and Applications. </span> (**[OOPSLA 2026](https://conf.researchr.org/track/splash-2026/oopsla-2026)**).  
   <span class="pub-links">
   [paper](#)
