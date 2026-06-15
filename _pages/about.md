@@ -12,6 +12,7 @@ profile:
     <p>512/513 Maybe 711 future. </p>
     <p>Computer Science Building.</p>
     <p>Nanjing University.</p>
+    <p>email: xinchenyao@smail.nju.edu.cn (Any friendly communication is welcome.)</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
