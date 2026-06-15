@@ -7,14 +7,28 @@ nav: true
 nav_order: 2
 ---
 
-<!-- _pages/publications.md -->
+<style>
+.pub-title {
+  font-weight: 600;
+}
 
-<!-- Bibsearch Feature -->
+.pub-venue {
+  font-style: italic;
+}
 
-{% include bib_search.liquid %}
+.pub-links a {
+  margin-right: 0.5rem;
+}
+</style>
 
-<div class="publications">
+## 2026
 
-{% bibliography %}
-
-</div>
+- <span class="pub-title">Pyriscope: Precise and Low-overhead Python Control Flow Tracing via Sparse Hardware-based Events</span>  
+  Xincheng Yao, Daiyou Wu, and Zhiqiang Zuo.  
+  <span class="pub-venue">Proceedings of the ACM SIGPLAN Conference on Object-Oriented Programming, Systems, Languages, and Applications</span> (**OOPSLA 2026**).  
+  <span class="pub-links">
+  [paper](#)
+  [code](#)
+  [artifact](#)
+  [slides](#)
+  </span>
