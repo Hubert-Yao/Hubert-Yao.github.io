@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am very happy for my paper Pyriscope was conditionally accepted to [OOPSLA'26](https://conf.researchr.org/track/splash-2026/oopsla-2026) (Top-tier venue of PL/SE).
+I am very happy for my paper Pyriscope was conditionally accepted to [OOPSLA'26](https://conf.researchr.org/track/splash-2026/oopsla-2026) (**Top-tier** venue of PL/SE).

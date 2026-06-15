@@ -12,7 +12,6 @@ profile:
     <p>512/513 Maybe 711 future. </p>
     <p>Computer Science Building.</p>
     <p>Nanjing University.</p>
-    <p>email: xinchenyao@smail.nju.edu.cn (Any friendly communication is welcome.)</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -36,11 +35,11 @@ I am currently pursuing my master's degree under the supervision of [Prof. Zhiqi
 
 Rather than focusing solely on theoretical studies of semantic abstractions, I am particularly drawn to problems that sit between programming-language theory and the complexity of real systems. I believe that a good program analysis or runtime design should not only be sound in its model, but also withstand the realities of interpreters, operating systems, and hardware behavior.
 
+my email: xinchenyao@smail.nju.edu.cn (Any friendly communication is welcome, Especially regarding the computer-related content.)
 
 
-
-### Selected Publications
+### My Publications
 
 - **Pyriscope: Precise and Low-overhead Python Control Flow Tracing via Sparse Hardware-based Events**  
-  **Xinchen Yao**, Daiyou Wu, and Zhiqiang Zuo.  
-  conditionally accepted by the ACM SIGPLAN Conference on Object-Oriented Programming, Systems, Languages, and Applications, ([OOPSLA'26](https://conf.researchr.org/track/splash-2026/oopsla-2026)), 2026.  
+  **Xinchen Yao**, Daiyou Wu, and Zhiqiang Zuo*.  
+  *conditionally accepted by the ACM SIGPLAN Conference on Object-Oriented Programming, Systems, Languages, and Applications, ([OOPSLA'26](https://conf.researchr.org/track/splash-2026/oopsla-2026)), 2026.*  
