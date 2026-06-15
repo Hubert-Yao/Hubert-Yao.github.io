@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: / # <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: I very much welcome making friends and discussing various issues.  # <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am Xincheng Yao, a master's student in the Department of Computer Science and Technology at Nanjing University.
+I am Xinchen (Hubert) Yao, a master's student in the Department of Computer Science and Technology at Nanjing University.
 
 I received my bachelor's degree from China University of Mining and Technology, where I worked with [Prof. Yonggang Li](https://faculty.cumt.edu.cn/LYG1234/zh_CN/index/202597/list/index.htm) on using hardware-assisted virtualization techniques to address system security problems. My time there was both enjoyable and formative, and it gave me a solid foundation in computer systems.
 
