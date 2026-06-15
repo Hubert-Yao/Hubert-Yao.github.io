@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: / # <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
@@ -27,4 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello, this is Hubert Xinchen Yao's Homepage.
+I am Xincheng Yao, a master's student in the Department of Computer Science and Technology at Nanjing University.
+
+I received my bachelor's degree from China University of Mining and Technology, where I worked with [Prof. Yonggang Li](https://faculty.cumt.edu.cn/LYG1234/zh_CN/index/202597/list/index.htm) on using hardware-assisted virtualization techniques to address system security problems. My time there was both enjoyable and formative, and it gave me a solid foundation in computer systems.
+
+I am currently pursuing my master's degree under the supervision of [Prof. Zhiqiang Zuo](https://z-zhiqiang.github.io/). My research interests lie broadly at the intersection of programming languages, systems, and compilers.
+
+Rather than focusing solely on theoretical studies of semantic abstractions, I am particularly drawn to problems that sit between programming-language theory and the complexity of real systems. I believe that a good program analysis or runtime design should not only be sound in its model, but also withstand the realities of interpreters, operating systems, and hardware behavior.
